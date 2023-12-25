@@ -47,7 +47,7 @@
                 public function __construct(string $name, int $height, int $weight) {
                     $this->name = $name;
                     $this->height = $height;
-                    $this->$weight = $weight;
+                    $this->weight = $weight;
                 }
             }
 
